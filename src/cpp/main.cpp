@@ -1,6 +1,6 @@
 /*
- * Author:
- * Date:
+ * Author: Zokirjonov Xondamir
+ * Date: 25.10.2023
  */
 
 #include <iostream>
